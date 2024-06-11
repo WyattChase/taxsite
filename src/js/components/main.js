@@ -18,18 +18,18 @@ class Main extends Component {
              <div className="services">
                 <div className="service-one">
                 <p className="service-icon"><i className="far fa-calendar-alt"></i></p>
-                <p className="service-title">Planning</p>
+                <p className="service-title">Consulting</p>
                 <p>Mauris vitae turpis ut sem blandit consequat et at ligula. Suspendisse quam lectus, tristique dapibus sapien et, tempus suscipit nisl.</p>
                 </div>
                 <div className="service-two">
                 <p className="service-icon"><i className="fas fa-crop"></i></p>
-                <p className="service-title">Design</p>
+                <p className="service-title">Taxes</p>
                 <p>Nulla eu metus faucibus, vehicula tortor quis, venenatis odio. Nullam purus mauris, feugiat in odio vitae, posuere volutpat libero. Sed et convallis libero.</p>
             
                 </div>
                 <div className="service-three">
                 <p className="service-icon"><i className="fas fa-code"></i></p>
-                <p className="service-title">Development</p>
+                <p className="service-title">Other Services</p>
                 <p>Ut ornare vitae enim a rhoncus. Nullam aliquet tristique scelerisque. Sed volutpat dictum risus ac laoreet. Suspendisse id lorem in enim sollicitudin varius.</p>
               
           </div>

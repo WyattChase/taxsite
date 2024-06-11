@@ -6,7 +6,7 @@ class Navbar extends Component {
       <nav>
         <ul>
           <li className="logo">
-            James Grey<span> Consulting</span>
+            James Gray<span> Consulting</span>
           </li>
         </ul>
         <ul>
